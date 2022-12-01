@@ -82,10 +82,10 @@ Please let me know if you find any mistakes, have any suggestions, or if you fin
 # Combinatorics
 ## Permutation
 The number of ways to arrange $k$ objects from a set of $n$ objects is given by the formula:
-$$ ^nP_k = \frac{n!}{(n-k)!} $$
+$$^nP_k = \frac{n!}{(n-k)!}$$
 ## Combination
 The number of ways to choose $k$ objects from a set of $n$ objects is given by the formula:
-$$ ^nC_k = \frac{n!}{k!(n-k)!} $$
+$$^nC_k = \frac{n!}{k!(n-k)!}$$
 
 
 
